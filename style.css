@@ -1,4 +1,8 @@
 ﻿
+.b-gallery {
+    img: 100%;
+}
+
 .o-container{
     width: 100%;
     display: flex;
