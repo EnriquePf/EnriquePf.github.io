@@ -3,6 +3,10 @@ img {
     width: 100%;
 }
 
+figcaption {
+    text-transform: uppercase;
+}
+
 .o-container{
     width: 100%;
     display: flex;
