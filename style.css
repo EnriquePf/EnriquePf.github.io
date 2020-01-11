@@ -7,6 +7,10 @@ figcaption {
     text-transform: uppercase;
 }
 
+.b-volver {
+    align-content: center;
+}
+
 .o-container{
     width: 100%;
     display: flex;
